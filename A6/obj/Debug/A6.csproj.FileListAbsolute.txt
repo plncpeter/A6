@@ -1,0 +1,11 @@
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A6\A6\bin\Debug\A6.exe.config
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A6\A6\bin\Debug\A6.exe
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A6\A6\bin\Debug\A6.pdb
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A6\A6\obj\Debug\A6.csproj.AssemblyReference.cache
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A6\A6\obj\Debug\A6.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A6\A6\obj\Debug\A6.Form1.resources
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A6\A6\obj\Debug\A6.Properties.Resources.resources
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A6\A6\obj\Debug\A6.csproj.GenerateResource.cache
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A6\A6\obj\Debug\A6.csproj.CoreCompileInputs.cache
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A6\A6\obj\Debug\A6.exe
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A6\A6\obj\Debug\A6.pdb
